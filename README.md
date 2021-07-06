@@ -1,3 +1,3 @@
-# Anomaly Detection from Videos using OpenCV and Tensorflow-2
+# CrimeCatch
 
-The main aim of this project is to build a Deep Learning model which will help predict crimes in live camera footage and if possible prevent it from progressing.
+Our goal is to detect crime from security cameras and alert the cops before anything bad happens. Designed with state of the art deep learning models such as resnet-50 and yolo-v4 trained on the UCF-Crime dataset which consist of 1900 long and untrimmed real-world surveillance videos, with 13 realistic anomalies including Abuse, Arrest, Arson, Assault, Road Accident, Burglary, Explosion, Fighting, Robbery, Shooting, Stealing, Shoplifting, and Vandalism.
